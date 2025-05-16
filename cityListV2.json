@@ -1,0 +1,3365 @@
+{
+  "classifyNav": [
+    {
+      "idx": "A"
+    },
+    {
+      "idx": "B"
+    },
+    {
+      "idx": "C"
+    },
+    {
+      "idx": "D"
+    },
+    {
+      "idx": "E"
+    },
+    {
+      "idx": "F"
+    },
+    {
+      "idx": "G"
+    },
+    {
+      "idx": "H"
+    },
+    {
+      "idx": "J"
+    },
+    {
+      "idx": "K"
+    },
+    {
+      "idx": "L"
+    },
+    {
+      "idx": "M"
+    },
+    {
+      "idx": "N"
+    },
+    {
+      "idx": "P"
+    },
+    {
+      "idx": "Q"
+    },
+    {
+      "idx": "R"
+    },
+    {
+      "idx": "S"
+    },
+    {
+      "idx": "T"
+    },
+    {
+      "idx": "W"
+    },
+    {
+      "idx": "X"
+    },
+    {
+      "idx": "Y"
+    },
+    {
+      "idx": "Z"
+    }
+  ],
+  "cityNav": [
+    {
+      "idx": "A",
+      "cities": [
+        {
+          "cityName": "阿坝藏族羌族自治州",
+          "cityPinyin": "abazangzuqiangzuzizhizhou",
+          "cityId": 513200,
+          "latitude": 31.899792,
+          "longitude": 102.221374
+        },
+        {
+          "cityName": "阿尔山市",
+          "cityPinyin": "aershanshi",
+          "cityId": 152202,
+          "latitude": 47.177,
+          "longitude": 119.943656
+        },
+
+        {
+          "cityName": "阿克苏市",
+          "cityPinyin": "akesushi",
+          "cityId": 652901,
+          "latitude": 41.16763,
+          "longitude": 80.26338
+        },
+
+        {
+          "cityName": "阿拉尔",
+          "cityPinyin": "alaer",
+          "cityId": 659002,
+          "latitude": 40.547981,
+          "longitude": 81.28067
+        },
+        {
+          "cityName": "阿拉善盟",
+          "cityPinyin": "alashanmeng",
+          "cityId": 152900,
+          "latitude": 38.844814,
+          "longitude": 105.706422
+        },
+
+        {
+          "cityName": "阿勒泰市",
+          "cityPinyin": "aletaishi",
+          "cityId": 654301,
+          "latitude": 47.848911,
+          "longitude": 88.138743
+        },
+        {
+          "cityName": "阿里",
+          "cityPinyin": "alidiqu",
+          "cityId": 542500,
+          "latitude": 30.40051,
+          "longitude": 81.1454
+        },
+
+        {
+          "cityName": "安康",
+          "cityPinyin": "ankang",
+          "cityId": 610900,
+          "latitude": 32.68486,
+          "longitude": 109.02932
+        },
+
+        {
+          "cityName": "安庆",
+          "cityPinyin": "anqing",
+          "cityId": 340800,
+          "latitude": 30.54294,
+          "longitude": 117.063538
+        },
+
+        {
+          "cityName": "鞍山",
+          "cityPinyin": "anshan",
+          "cityId": 210300,
+          "latitude": 41.107769,
+          "longitude": 122.994598
+        },
+        {
+          "cityName": "安顺",
+          "cityPinyin": "anshun",
+          "cityId": 520400,
+          "latitude": 26.25367,
+          "longitude": 105.946198
+        },
+
+        {
+          "cityName": "安阳",
+          "cityPinyin": "anyang",
+          "cityId": 410500,
+          "latitude": 36.09771,
+          "longitude": 114.393097
+        },
+
+        {
+          "cityName": "澳门",
+          "cityPinyin": "aomen",
+          "cityId": 820001,
+          "latitude": 22.186834,
+          "longitude": 113.54303
+        }
+      ]
+    },
+    {
+      "idx": "B",
+      "cities": [
+        {
+          "cityName": "白城",
+          "cityPinyin": "baicheng",
+          "cityId": 220800,
+          "latitude": 45.619598,
+          "longitude": 122.838707
+        },
+
+        {
+          "cityName": "百色",
+          "cityPinyin": "baise",
+          "cityId": 451000,
+          "latitude": 23.902161,
+          "longitude": 106.618378
+        },
+        {
+          "cityName": "白沙黎族自治县",
+          "cityPinyin": "baishalizuzizhixian",
+          "cityId": 469025,
+          "latitude": 19.360565,
+          "longitude": 109.122688
+        },
+        {
+          "cityName": "白山",
+          "cityPinyin": "baishan",
+          "cityId": 220600,
+          "latitude": 41.9408,
+          "longitude": 126.424431
+        },
+
+        {
+          "cityName": "白银",
+          "cityPinyin": "baiyin",
+          "cityId": 620400,
+          "latitude": 36.544701,
+          "longitude": 104.137733
+        },
+
+        {
+          "cityName": "保定",
+          "cityPinyin": "baoding",
+          "cityId": 130600,
+          "latitude": 38.873959,
+          "longitude": 115.464592
+        },
+
+        {
+          "cityName": "宝鸡",
+          "cityPinyin": "baoji",
+          "cityId": 610300,
+          "latitude": 34.361938,
+          "longitude": 107.23732
+        },
+
+        {
+          "cityName": "保山",
+          "cityPinyin": "baoshan",
+          "cityId": 530500,
+          "latitude": 25.112049,
+          "longitude": 99.161812
+        },
+
+        {
+          "cityName": "保亭黎族苗族自治县",
+          "cityPinyin": "baotinglizumiaozuzizhixian",
+          "cityId": 469029,
+          "latitude": 18.636371,
+          "longitude": 109.70245
+        },
+        {
+          "cityName": "包头",
+          "cityPinyin": "baotou",
+          "cityId": 150200,
+          "latitude": 40.65781,
+          "longitude": 109.84021
+        },
+
+        {
+          "cityName": "巴彦淖尔",
+          "cityPinyin": "bayannaoer",
+          "cityId": 150800,
+          "latitude": 40.743172,
+          "longitude": 107.387733
+        },
+
+        {
+          "cityName": "巴音郭楞蒙古自治州",
+          "cityPinyin": "bayinguolengmengguzizhizhou",
+          "cityId": 652800,
+          "latitude": 41.765086,
+          "longitude": 86.147471
+        },
+
+        {
+          "cityName": "巴中",
+          "cityPinyin": "bazhong",
+          "cityId": 511900,
+          "latitude": 31.867149,
+          "longitude": 106.74733
+        },
+        {
+          "cityName": "巴州区",
+          "cityPinyin": "bazhouqu",
+          "cityId": 511902,
+          "latitude": 31.851458,
+          "longitude": 106.76887
+        },
+
+        {
+          "cityName": "北海",
+          "cityPinyin": "beihai",
+          "cityId": 450500,
+          "latitude": 21.481119,
+          "longitude": 109.120079
+        },
+        {
+          "cityName": "北京",
+          "cityPinyin": "beijing",
+          "cityId": 110100,
+          "latitude": 39.90469,
+          "longitude": 116.407173
+        },
+
+        {
+          "cityName": "北屯",
+          "cityPinyin": "beitun",
+          "cityId": 659005,
+          "latitude": 47.353177,
+          "longitude": 87.824932
+        },
+
+        {
+          "cityName": "蚌埠",
+          "cityPinyin": "bengbu",
+          "cityId": 340300,
+          "latitude": 32.915482,
+          "longitude": 117.38932
+        },
+        {
+          "cityName": "本溪",
+          "cityPinyin": "benxi",
+          "cityId": 210500,
+          "latitude": 41.294128,
+          "longitude": 123.766861
+        },
+
+        {
+          "cityName": "毕节",
+          "cityPinyin": "bijie",
+          "cityId": 520500,
+          "latitude": 27.29847,
+          "longitude": 105.305038
+        },
+
+        {
+          "cityName": "滨州",
+          "cityPinyin": "binzhou",
+          "cityId": 371600,
+          "latitude": 37.382111,
+          "longitude": 117.972794
+        },
+
+        {
+          "cityName": "博尔塔拉蒙古自治州",
+          "cityPinyin": "boertalamengguzizhizhou",
+          "cityId": 652700,
+          "latitude": 44.903258,
+          "longitude": 82.074778
+        },
+
+        {
+          "cityName": "亳州",
+          "cityPinyin": "bozhou",
+          "cityId": 341600,
+          "latitude": 33.844608,
+          "longitude": 115.779312
+        }
+      ]
+    },
+    {
+      "idx": "C",
+      "cities": [
+        {
+          "cityName": "沧州",
+          "cityPinyin": "cangzhou",
+          "cityId": 130900,
+          "latitude": 38.304409,
+          "longitude": 116.838692
+        },
+
+        {
+          "cityName": "长春",
+          "cityPinyin": "changchun",
+          "cityId": 220100,
+          "latitude": 43.816021,
+          "longitude": 125.32357
+        },
+        {
+          "cityName": "常德",
+          "cityPinyin": "changde",
+          "cityId": 430700,
+          "latitude": 29.03158,
+          "longitude": 111.69854
+        },
+        {
+          "cityName": "昌都",
+          "cityPinyin": "changdu",
+          "cityId": 542100,
+          "latitude": 31.136875,
+          "longitude": 97.178452
+        },
+
+        {
+          "cityName": "长葛市",
+          "cityPinyin": "changgeshi",
+          "cityId": 411082,
+          "latitude": 34.216721,
+          "longitude": 113.768272
+        },
+
+        {
+          "cityName": "昌江黎族自治县",
+          "cityPinyin": "changjianglizuzizhixian",
+          "cityId": 469026,
+          "latitude": 19.260968,
+          "longitude": 109.053351
+        },
+
+        {
+          "cityName": "昌吉回族自治州",
+          "cityPinyin": "changjihuizuzizhizhou",
+          "cityId": 652300,
+          "latitude": 44.014577,
+          "longitude": 87.304012
+        },
+
+        {
+          "cityName": "常宁市",
+          "cityPinyin": "changningshi",
+          "cityId": 430482,
+          "latitude": 26.420931,
+          "longitude": 112.399918
+        },
+
+        {
+          "cityName": "长沙",
+          "cityPinyin": "changsha",
+          "cityId": 430100,
+          "latitude": 28.227779,
+          "longitude": 112.938858
+        },
+
+        {
+          "cityName": "常熟",
+          "cityPinyin": "changshu",
+          "cityId": 320581,
+          "latitude": 31.65382,
+          "longitude": 120.752373
+        },
+
+        {
+          "cityName": "昌邑市",
+          "cityPinyin": "changyishi",
+          "cityId": 370786,
+          "latitude": 36.858841,
+          "longitude": 119.398621
+        },
+
+        {
+          "cityName": "长治市",
+          "cityPinyin": "changzhishi",
+          "cityId": 140400,
+          "latitude": 36.195808,
+          "longitude": 113.116493
+        },
+
+        {
+          "cityName": "常州",
+          "cityPinyin": "changzhou",
+          "cityId": 320400,
+          "latitude": 31.81072,
+          "longitude": 119.973648
+        },
+
+        {
+          "cityName": "巢湖",
+          "cityPinyin": "chaohu",
+          "cityId": 340181,
+          "latitude": 31.623289,
+          "longitude": 117.889374
+        },
+
+        {
+          "cityName": "朝阳",
+          "cityPinyin": "chaoyang",
+          "cityId": 211300,
+          "latitude": 41.573471,
+          "longitude": 120.450798
+        },
+
+        {
+          "cityName": "潮州",
+          "cityPinyin": "chaozhou",
+          "cityId": 445100,
+          "latitude": 23.6567,
+          "longitude": 116.622963
+        },
+
+        {
+          "cityName": "城步苗族自治县",
+          "cityPinyin": "chengbumiaozuzizhixian",
+          "cityId": 430529,
+          "latitude": 26.357347,
+          "longitude": 110.312455
+        },
+
+        {
+          "cityName": "承德",
+          "cityPinyin": "chengde",
+          "cityId": 130800,
+          "latitude": 40.9515,
+          "longitude": 117.963402
+        },
+
+        {
+          "cityName": "成都",
+          "cityPinyin": "chengdu",
+          "cityId": 510100,
+          "latitude": 30.5702,
+          "longitude": 104.064758
+        },
+
+        {
+          "cityName": "郴州",
+          "cityPinyin": "chenzhou",
+          "cityId": 431000,
+          "latitude": 25.77063,
+          "longitude": 113.014847
+        },
+        {
+          "cityName": "赤壁市",
+          "cityPinyin": "chibishi",
+          "cityId": 421281,
+          "latitude": 29.72476,
+          "longitude": 113.900543
+        },
+
+        {
+          "cityName": "赤峰",
+          "cityPinyin": "chifeng",
+          "cityId": 150400,
+          "latitude": 42.258598,
+          "longitude": 118.888939
+        },
+
+        {
+          "cityName": "池州",
+          "cityPinyin": "chizhou",
+          "cityId": 341700,
+          "latitude": 30.66469,
+          "longitude": 117.491417
+        },
+
+        {
+          "cityName": "重庆",
+          "cityPinyin": "chongqing",
+          "cityId": 500100,
+          "latitude": 29.564711,
+          "longitude": 106.550728
+        },
+
+        {
+          "cityName": "崇州市",
+          "cityPinyin": "chongzhoushi",
+          "cityId": 510184,
+          "latitude": 30.630211,
+          "longitude": 103.67289
+        },
+        {
+          "cityName": "崇左",
+          "cityPinyin": "chongzuo",
+          "cityId": 451400,
+          "latitude": 22.37895,
+          "longitude": 107.364853
+        },
+
+        {
+          "cityName": "楚雄",
+          "cityPinyin": "chuxiongyizuzizhizhou",
+          "cityId": 532300,
+          "latitude": 25.041988,
+          "longitude": 101.546046
+        },
+        {
+          "cityName": "滁州",
+          "cityPinyin": "chuzhou",
+          "cityId": 341100,
+          "latitude": 32.301811,
+          "longitude": 118.316833
+        },
+
+        {
+          "cityName": "从化市",
+          "cityPinyin": "conghuashi",
+          "cityId": 440184,
+          "latitude": 23.54915,
+          "longitude": 113.586329
+        }
+      ]
+    },
+    {
+      "idx": "D",
+      "cities": [
+        {
+          "cityName": "大理",
+          "cityPinyin": "dali",
+          "cityId": 532901,
+          "latitude": 25.591579,
+          "longitude": 100.229759
+        },
+        {
+          "cityName": "大连",
+          "cityPinyin": "dalian",
+          "cityId": 210200,
+          "latitude": 38.913689,
+          "longitude": 121.614761
+        },
+        {
+          "cityName": "大理白族自治州",
+          "cityPinyin": "dalibaizuzizhiqu",
+          "cityId": 532900,
+          "latitude": 25.592765,
+          "longitude": 100.240037
+        },
+
+        {
+          "cityName": "丹东",
+          "cityPinyin": "dandong",
+          "cityId": 210600,
+          "latitude": 39.999802,
+          "longitude": 124.35601
+        },
+
+        {
+          "cityName": "当阳市",
+          "cityPinyin": "dangyangshi",
+          "cityId": 420582,
+          "latitude": 30.82118,
+          "longitude": 111.78833
+        },
+
+        {
+          "cityName": "丹江口市",
+          "cityPinyin": "danjiangkoushi",
+          "cityId": 420381,
+          "latitude": 32.540401,
+          "longitude": 111.513222
+        },
+
+        {
+          "cityName": "丹阳市",
+          "cityPinyin": "danyangshi",
+          "cityId": 321181,
+          "latitude": 32.009449,
+          "longitude": 119.606941
+        },
+
+        {
+          "cityName": "儋州",
+          "cityPinyin": "danzhou",
+          "cityId": 469003,
+          "latitude": 19.520929,
+          "longitude": 109.580688
+        },
+
+        {
+          "cityName": "大庆",
+          "cityPinyin": "daqing",
+          "cityId": 230600,
+          "latitude": 46.587582,
+          "longitude": 125.103073
+        },
+
+        {
+          "cityName": "大同",
+          "cityPinyin": "datong",
+          "cityId": 140200,
+          "latitude": 40.07637,
+          "longitude": 113.300011
+        },
+
+        {
+          "cityName": "大兴安岭",
+          "cityPinyin": "daxinganling",
+          "cityId": 232700,
+          "latitude": 51.672255,
+          "longitude": 124.398555
+        },
+
+        {
+          "cityName": "达州",
+          "cityPinyin": "dazhou",
+          "cityId": 511700,
+          "latitude": 31.208639,
+          "longitude": 107.467911
+        },
+
+        {
+          "cityName": "德宏",
+          "cityPinyin": "dehongdaizujingpozuzizhizhou",
+          "cityId": 533100,
+          "latitude": 24.436694,
+          "longitude": 98.578363
+        },
+
+        {
+          "cityName": "登封市",
+          "cityPinyin": "dengfengshi",
+          "cityId": 410185,
+          "latitude": 34.45348,
+          "longitude": 113.050278
+        },
+
+        {
+          "cityName": "德阳",
+          "cityPinyin": "deyang",
+          "cityId": 510600,
+          "latitude": 31.126789,
+          "longitude": 104.397903
+        },
+        {
+          "cityName": "德州",
+          "cityPinyin": "dezhou",
+          "cityId": 371400,
+          "latitude": 37.435501,
+          "longitude": 116.359268
+        },
+
+        {
+          "cityName": "定安县",
+          "cityPinyin": "dinganxian",
+          "cityId": 469021,
+          "latitude": 19.68121,
+          "longitude": 110.359299
+        },
+
+        {
+          "cityName": "定西",
+          "cityPinyin": "dingxi",
+          "cityId": 621100,
+          "latitude": 35.579578,
+          "longitude": 104.626294
+        },
+
+        {
+          "cityName": "迪庆藏族自治州",
+          "cityPinyin": "diqingzangzuzizhizhou",
+          "cityId": 533400,
+          "latitude": 27.826853,
+          "longitude": 99.706463
+        },
+
+        {
+          "cityName": "东方",
+          "cityPinyin": "dongfang",
+          "cityId": 469007,
+          "latitude": 19.09614,
+          "longitude": 108.653671
+        },
+
+        {
+          "cityName": "东营",
+          "cityPinyin": "dongying",
+          "cityId": 370500,
+          "latitude": 37.433651,
+          "longitude": 118.67466
+        },
+
+        {
+          "cityName": "敦煌",
+          "cityPinyin": "dunhuang",
+          "cityId": 620982,
+          "latitude": 40.141119,
+          "longitude": 94.664279
+        }
+      ]
+    },
+    {
+      "idx": "E",
+      "cities": [
+        {
+          "cityName": "鄂尔多斯",
+          "cityPinyin": "eerduosi",
+          "cityId": 150600,
+          "latitude": 39.608452,
+          "longitude": 109.780869
+        },
+
+        {
+          "cityName": "恩施",
+          "cityPinyin": "enshi",
+          "cityId": 422801,
+          "latitude": 30.29504,
+          "longitude": 109.479179
+        },
+
+        {
+          "cityName": "鄂州",
+          "cityPinyin": "ezhou",
+          "cityId": 420700,
+          "latitude": 30.39085,
+          "longitude": 114.894951
+        }
+      ]
+    },
+    {
+      "idx": "F",
+      "cities": [
+        {
+          "cityName": "防城港",
+          "cityPinyin": "fangchenggang",
+          "cityId": 450600,
+          "latitude": 21.6138,
+          "longitude": 108.33799
+        },
+
+        {
+          "cityName": "佛山",
+          "cityPinyin": "foshan",
+          "cityId": 440600,
+          "latitude": 23.021851,
+          "longitude": 113.121918
+        },
+
+        {
+          "cityName": "抚顺",
+          "cityPinyin": "fushun",
+          "cityId": 210400,
+          "latitude": 41.879711,
+          "longitude": 123.957222
+        },
+
+        {
+          "cityName": "阜新",
+          "cityPinyin": "fuxin",
+          "cityId": 210900,
+          "latitude": 42.02166,
+          "longitude": 121.670113
+        },
+
+        {
+          "cityName": "阜阳",
+          "cityPinyin": "fuyang",
+          "cityId": 341200,
+          "latitude": 32.889629,
+          "longitude": 115.814949
+        },
+
+        {
+          "cityName": "抚州",
+          "cityPinyin": "fuzhou",
+          "cityId": 361000,
+          "latitude": 27.947809,
+          "longitude": 116.358093
+        },
+        {
+          "cityName": "福州",
+          "cityPinyin": "fuzhou",
+          "cityId": 350100,
+          "latitude": 26.074209,
+          "longitude": 119.296471
+        }
+      ]
+    },
+    {
+      "idx": "G",
+      "cities": [
+        {
+          "cityName": "甘南",
+          "cityPinyin": "gannanzangzuzizhizhou",
+          "cityId": 623000,
+          "latitude": 34.986354,
+          "longitude": 102.911008
+        },
+
+        {
+          "cityName": "赣州",
+          "cityPinyin": "ganzhou",
+          "cityId": 360700,
+          "latitude": 25.831091,
+          "longitude": 114.934761
+        },
+
+        {
+          "cityName": "甘孜",
+          "cityPinyin": "ganzizangzuzizhizhou",
+          "cityId": 513300,
+          "latitude": 30.04932,
+          "longitude": 101.96254
+        },
+
+        {
+          "cityName": "高雄",
+          "cityPinyin": "gaoxiong",
+          "cityId": 710200,
+          "latitude": 22.66475278,
+          "longitude": 120.3055774
+        },
+
+        {
+          "cityName": "广安",
+          "cityPinyin": "guangan",
+          "cityId": 511600,
+          "latitude": 30.455959,
+          "longitude": 106.633217
+        },
+        {
+          "cityName": "广元",
+          "cityPinyin": "guangyuan",
+          "cityId": 510800,
+          "latitude": 32.43549,
+          "longitude": 105.843567
+        },
+
+        {
+          "cityName": "广州",
+          "cityPinyin": "guangzhou",
+          "cityId": 440100,
+          "latitude": 23.12908,
+          "longitude": 113.264359
+        },
+
+        {
+          "cityName": "贵港",
+          "cityPinyin": "guigang",
+          "cityId": 450800,
+          "latitude": 23.11306,
+          "longitude": 109.597641
+        },
+        {
+          "cityName": "桂林",
+          "cityPinyin": "guilin",
+          "cityId": 450300,
+          "latitude": 25.273609,
+          "longitude": 110.290024
+        },
+
+        {
+          "cityName": "贵阳",
+          "cityPinyin": "guiyang",
+          "cityId": 520100,
+          "latitude": 26.64702,
+          "longitude": 106.630241
+        },
+
+        {
+          "cityName": "果洛",
+          "cityPinyin": "guoluozangzuzizhizhou",
+          "cityId": 632600,
+          "latitude": 34.468685,
+          "longitude": 100.247076
+        },
+
+        {
+          "cityName": "固原",
+          "cityPinyin": "guyuan",
+          "cityId": 640400,
+          "latitude": 36.004561,
+          "longitude": 106.285241
+        }
+      ]
+    },
+    {
+      "idx": "H",
+      "cities": [
+        {
+          "cityName": "哈尔滨",
+          "cityPinyin": "haerbin",
+          "cityId": 230100,
+          "latitude": 45.802158,
+          "longitude": 126.535797
+        },
+
+        {
+          "cityName": "海北",
+          "cityPinyin": "haibeizangzuzizhizhou",
+          "cityId": 632200,
+          "latitude": 36.959435,
+          "longitude": 100.901059
+        },
+
+        {
+          "cityName": "海东",
+          "cityPinyin": "haidong",
+          "cityId": 630200,
+          "latitude": 36.502916,
+          "longitude": 102.10327
+        },
+
+        {
+          "cityName": "海口",
+          "cityPinyin": "haikou",
+          "cityId": 460100,
+          "latitude": 20.04422,
+          "longitude": 110.19989
+        },
+
+        {
+          "cityName": "海南自治州",
+          "cityPinyin": "hainanzangzuzizhizhou",
+          "cityId": 632500,
+          "latitude": 36.280353,
+          "longitude": 100.619542
+        },
+
+        {
+          "cityName": "海西自治州",
+          "cityPinyin": "haiximengguzuzangzuzizhizhou",
+          "cityId": 632800,
+          "latitude": 37.374663,
+          "longitude": 97.370785
+        },
+
+        {
+          "cityName": "哈密",
+          "cityPinyin": "hami",
+          "cityId": 652200,
+          "latitude": 42.833247,
+          "longitude": 93.51315
+        },
+
+        {
+          "cityName": "邯郸",
+          "cityPinyin": "handan",
+          "cityId": 130400,
+          "latitude": 36.625561,
+          "longitude": 114.539177
+        },
+
+        {
+          "cityName": "杭州",
+          "cityPinyin": "hangzhou",
+          "cityId": 330100,
+          "latitude": 30.274151,
+          "longitude": 120.155151
+        },
+
+        {
+          "cityName": "汉中",
+          "cityPinyin": "hanzhong",
+          "cityId": 610700,
+          "latitude": 33.067612,
+          "longitude": 107.023773
+        },
+
+        {
+          "cityName": "鹤壁",
+          "cityPinyin": "hebi",
+          "cityId": 410600,
+          "latitude": 35.747002,
+          "longitude": 114.297447
+        },
+
+        {
+          "cityName": "河池",
+          "cityPinyin": "hechi",
+          "cityId": 451200,
+          "latitude": 24.695899,
+          "longitude": 108.062105
+        },
+        {
+          "cityName": "合肥",
+          "cityPinyin": "hefei",
+          "cityId": 340100,
+          "latitude": 31.82057,
+          "longitude": 117.229012
+        },
+
+        {
+          "cityName": "鹤岗",
+          "cityPinyin": "hegang",
+          "cityId": 230400,
+          "latitude": 47.349892,
+          "longitude": 130.297852
+        },
+        {
+          "cityName": "黑河",
+          "cityPinyin": "heihe",
+          "cityId": 231100,
+          "latitude": 50.245232,
+          "longitude": 127.528519
+        },
+
+        {
+          "cityName": "衡山",
+          "cityPinyin": "hengshan",
+          "cityId": 430423,
+          "latitude": 27.234808,
+          "longitude": 112.86971
+        },
+
+        {
+          "cityName": "衡水",
+          "cityPinyin": "hengshui",
+          "cityId": 131100,
+          "latitude": 37.738861,
+          "longitude": 115.67054
+        },
+
+        {
+          "cityName": "衡阳",
+          "cityPinyin": "hengyang",
+          "cityId": 430400,
+          "latitude": 26.89324,
+          "longitude": 112.571953
+        },
+
+        {
+          "cityName": "和田",
+          "cityPinyin": "hetian",
+          "cityId": 653200,
+          "latitude": 37.110687,
+          "longitude": 79.92533
+        },
+
+        {
+          "cityName": "河源",
+          "cityPinyin": "heyuan",
+          "cityId": 441600,
+          "latitude": 23.74365,
+          "longitude": 114.700653
+        },
+        {
+          "cityName": "菏泽",
+          "cityPinyin": "heze",
+          "cityId": 371700,
+          "latitude": 35.233631,
+          "longitude": 115.481148
+        },
+
+        {
+          "cityName": "贺州",
+          "cityPinyin": "hezhou",
+          "cityId": 451100,
+          "latitude": 24.40346,
+          "longitude": 111.566551
+        },
+
+        {
+          "cityName": "红河州",
+          "cityPinyin": "honghezhou",
+          "cityId": 532500,
+          "latitude": 23.366775,
+          "longitude": 103.384182
+        },
+
+        {
+          "cityName": "淮安",
+          "cityPinyin": "huaian",
+          "cityId": 320800,
+          "latitude": 33.610161,
+          "longitude": 119.015953
+        },
+
+        {
+          "cityName": "淮北",
+          "cityPinyin": "huaibei",
+          "cityId": 340600,
+          "latitude": 33.67078,
+          "longitude": 116.926224
+        },
+
+        {
+          "cityName": "怀化",
+          "cityPinyin": "huaihua",
+          "cityId": 431200,
+          "latitude": 27.56974,
+          "longitude": 110.001602
+        },
+
+        {
+          "cityName": "淮南",
+          "cityPinyin": "huainan",
+          "cityId": 340400,
+          "latitude": 32.625488,
+          "longitude": 116.999802
+        },
+
+        {
+          "cityName": "黄冈",
+          "cityPinyin": "huanggang",
+          "cityId": 421100,
+          "latitude": 30.45347,
+          "longitude": 114.872383
+        },
+
+        {
+          "cityName": "黄南自治州",
+          "cityPinyin": "huangnanzangzuzizhizhou",
+          "cityId": 632300,
+          "latitude": 35.517744,
+          "longitude": 102.019988
+        },
+
+        {
+          "cityName": "黄山",
+          "cityPinyin": "huangshan",
+          "cityId": 341000,
+          "latitude": 29.71517,
+          "longitude": 118.338661
+        },
+        {
+          "cityName": "黄石",
+          "cityPinyin": "huangshi",
+          "cityId": 420200,
+          "latitude": 30.19953,
+          "longitude": 115.038902
+        },
+
+        {
+          "cityName": "呼和浩特",
+          "cityPinyin": "huhehaote",
+          "cityId": 150100,
+          "latitude": 40.841492,
+          "longitude": 111.751991
+        },
+
+        {
+          "cityName": "惠州",
+          "cityPinyin": "huizhou",
+          "cityId": 441300,
+          "latitude": 23.11075,
+          "longitude": 114.416786
+        },
+        {
+          "city_name": "胡杨河",
+          "city_pinyin": "huyangheshi",
+          "city_id": 659010,
+          "latitude": 44.692894,
+          "longitude": 84.827592
+        },
+        {
+          "cityName": "葫芦岛",
+          "cityPinyin": "huludao",
+          "cityId": 211400,
+          "latitude": 40.710999,
+          "longitude": 120.83699
+        },
+        {
+          "cityName": "呼伦贝尔",
+          "cityPinyin": "hulunbeier",
+          "cityId": 150700,
+          "latitude": 49.211632,
+          "longitude": 119.765839
+        },
+
+        {
+          "cityName": "湖州",
+          "cityPinyin": "huzhou",
+          "cityId": 330500,
+          "latitude": 30.893049,
+          "longitude": 120.088051
+        }
+      ]
+    },
+    {
+      "idx": "J",
+      "cities": [
+        {
+          "cityName": "佳木斯",
+          "cityPinyin": "jiamusi",
+          "cityId": 230800,
+          "latitude": 46.80019,
+          "longitude": 130.320602
+        },
+        {
+          "cityName": "吉安",
+          "cityPinyin": "jian",
+          "cityId": 360800,
+          "latitude": 27.040042,
+          "longitude": 114.905117
+        },
+
+        {
+          "cityName": "江门",
+          "cityPinyin": "jiangmen",
+          "cityId": 440700,
+          "latitude": 22.57865,
+          "longitude": 113.081612
+        },
+
+        {
+          "cityName": "吉安市",
+          "cityPinyin": "jianxian",
+          "cityId": 360821,
+          "latitude": 27.113819,
+          "longitude": 114.993759
+        },
+
+        {
+          "cityName": "焦作",
+          "cityPinyin": "jiaozuo",
+          "cityId": 410800,
+          "latitude": 35.21563,
+          "longitude": 113.242012
+        },
+
+        {
+          "cityName": "嘉兴",
+          "cityPinyin": "jiaxing",
+          "cityId": 330400,
+          "latitude": 30.74501,
+          "longitude": 120.755501
+        },
+        {
+          "cityName": "嘉义",
+          "cityPinyin": "jiayi",
+          "cityId": 710900,
+          "latitude": 23.47274676,
+          "longitude": 120.454972
+        },
+
+        {
+          "cityName": "嘉峪关",
+          "cityPinyin": "jiayuguan",
+          "cityId": 620200,
+          "latitude": 39.772011,
+          "longitude": 98.290108
+        },
+
+        {
+          "cityName": "揭阳",
+          "cityPinyin": "jieyang",
+          "cityId": 445200,
+          "latitude": 23.549721,
+          "longitude": 116.372711
+        },
+
+        {
+          "cityName": "吉林",
+          "cityPinyin": "jilin",
+          "cityId": 220200,
+          "latitude": 43.837841,
+          "longitude": 126.549438
+        },
+        {
+          "cityName": "基隆",
+          "cityPinyin": "jilong",
+          "cityId": 711600,
+          "latitude": 28.852416,
+          "longitude": 85.298349
+        },
+
+        {
+          "cityName": "济南",
+          "cityPinyin": "jinan",
+          "cityId": 370100,
+          "latitude": 36.665291,
+          "longitude": 116.994926
+        },
+
+        {
+          "cityName": "晋城",
+          "cityPinyin": "jincheng",
+          "cityId": 140500,
+          "latitude": 35.490391,
+          "longitude": 112.851128
+        },
+
+        {
+          "cityName": "景德镇",
+          "cityPinyin": "jingdezhen",
+          "cityId": 360200,
+          "latitude": 29.26869,
+          "longitude": 117.178391
+        },
+
+        {
+          "cityName": "荆门",
+          "cityPinyin": "jingmen",
+          "cityId": 420800,
+          "latitude": 31.03546,
+          "longitude": 112.199448
+        },
+
+        {
+          "cityName": "荆州",
+          "cityPinyin": "jingzhou",
+          "cityId": 421000,
+          "latitude": 30.334789,
+          "longitude": 112.240692
+        },
+
+        {
+          "cityName": "金华",
+          "cityPinyin": "jinhua",
+          "cityId": 330700,
+          "latitude": 29.078119,
+          "longitude": 119.647591
+        },
+
+        {
+          "cityName": "济宁",
+          "cityPinyin": "jining",
+          "cityId": 370800,
+          "latitude": 35.414589,
+          "longitude": 116.587242
+        },
+
+        {
+          "cityName": "晋江",
+          "cityPinyin": "jinjiang",
+          "cityId": 350582,
+          "latitude": 24.781441,
+          "longitude": 118.551987
+        },
+
+        {
+          "cityName": "晋中",
+          "cityPinyin": "jinzhong",
+          "cityId": 140700,
+          "latitude": 37.687019,
+          "longitude": 112.752777
+        },
+        {
+          "cityName": "锦州",
+          "cityPinyin": "jinzhou",
+          "cityId": 210700,
+          "latitude": 41.09515,
+          "longitude": 121.127029
+        },
+
+        {
+          "cityName": "九江",
+          "cityPinyin": "jiujiang",
+          "cityId": 360400,
+          "latitude": 29.705481,
+          "longitude": 116.001457
+        },
+
+        {
+          "cityName": "酒泉",
+          "cityPinyin": "jiuquan",
+          "cityId": 620900,
+          "latitude": 39.732552,
+          "longitude": 98.493942
+        },
+
+        {
+          "cityName": "鸡西",
+          "cityPinyin": "jixi",
+          "cityId": 230300,
+          "latitude": 45.295238,
+          "longitude": 130.969543
+        },
+
+        {
+          "cityName": "济源",
+          "cityPinyin": "jiyuan",
+          "cityId": 419001,
+          "latitude": 35.06707,
+          "longitude": 112.60273
+        }
+      ]
+    },
+    {
+      "idx": "K",
+      "cities": [
+        {
+          "cityName": "开封",
+          "cityPinyin": "kaifeng",
+          "cityId": 410200,
+          "latitude": 34.79726,
+          "longitude": 114.307312
+        },
+
+        {
+          "cityName": "喀什",
+          "cityPinyin": "kashidiqu",
+          "cityId": 653100,
+          "latitude": 39.467664,
+          "longitude": 75.989138
+        },
+        {
+          "city_name": "可克达拉市",
+          "city_pinyin": "kekedalashi",
+          "city_id": 659008,
+          "latitude": 43.6832,
+          "longitude": 80.63579
+        },
+        {
+          "cityName": "克拉玛依",
+          "cityPinyin": "kelamayi",
+          "cityId": 650200,
+          "latitude": 45.57999,
+          "longitude": 84.88927
+        },
+
+        {
+          "cityName": "克孜勒苏柯尔克孜自治州",
+          "cityPinyin": "kezilesukeerkezizizhizhou",
+          "cityId": 653000,
+          "latitude": 39.7111,
+          "longitude": 76.174806
+        },
+
+        {
+          "cityName": "昆明",
+          "cityPinyin": "kunming",
+          "cityId": 530100,
+          "latitude": 24.87966,
+          "longitude": 102.833221
+        }
+      ]
+    },
+    {
+      "idx": "L",
+      "cities": [
+        {
+          "cityName": "来宾",
+          "cityPinyin": "laibin",
+          "cityId": 451300,
+          "latitude": 23.733766,
+          "longitude": 109.229772
+        },
+
+        {
+          "cityName": "廊坊",
+          "cityPinyin": "langfang",
+          "cityId": 131000,
+          "latitude": 39.53775,
+          "longitude": 116.68376
+        },
+
+        {
+          "cityName": "兰州",
+          "cityPinyin": "lanzhou",
+          "cityId": 620100,
+          "latitude": 36.06138,
+          "longitude": 103.83417
+        },
+
+        {
+          "cityName": "拉萨",
+          "cityPinyin": "lasa",
+          "cityId": 540100,
+          "latitude": 29.64415,
+          "longitude": 91.114502
+        },
+
+        {
+          "cityName": "乐山",
+          "cityPinyin": "leshan",
+          "cityId": 511100,
+          "latitude": 29.55221,
+          "longitude": 103.765388
+        },
+
+        {
+          "cityName": "凉山彝族自治州",
+          "cityPinyin": "liangshanyizuzizhizhou",
+          "cityId": 513400,
+          "latitude": 27.886762,
+          "longitude": 102.258746
+        },
+
+        {
+          "cityName": "连云港",
+          "cityPinyin": "lianyungang",
+          "cityId": 320700,
+          "latitude": 34.596691,
+          "longitude": 119.222954
+        },
+
+        {
+          "cityName": "聊城",
+          "cityPinyin": "liaocheng",
+          "cityId": 371500,
+          "latitude": 36.45702,
+          "longitude": 115.985489
+        },
+        {
+          "cityName": "辽阳",
+          "cityPinyin": "liaoyang",
+          "cityId": 211000,
+          "latitude": 41.268089,
+          "longitude": 123.237358
+        },
+
+        {
+          "cityName": "辽源",
+          "cityPinyin": "liaoyuan",
+          "cityId": 220400,
+          "latitude": 42.88805,
+          "longitude": 125.143677
+        },
+
+        {
+          "cityName": "丽江",
+          "cityPinyin": "lijiang",
+          "cityId": 530700,
+          "latitude": 26.85648,
+          "longitude": 100.227097
+        },
+
+        {
+          "cityName": "临沧",
+          "cityPinyin": "lincang",
+          "cityId": 530900,
+          "latitude": 23.886567,
+          "longitude": 100.08697
+        },
+
+        {
+          "cityName": "临汾",
+          "cityPinyin": "linfen",
+          "cityId": 141000,
+          "latitude": 36.088219,
+          "longitude": 111.519623
+        },
+        {
+          "cityName": "临高县",
+          "cityPinyin": "lingaoxian",
+          "cityId": 469024,
+          "latitude": 19.91243,
+          "longitude": 109.690773
+        },
+
+        {
+          "cityName": "临夏回族自治州",
+          "cityPinyin": "linxiahuizuzizhizhou",
+          "cityId": 622900,
+          "latitude": 35.599446,
+          "longitude": 103.212006
+        },
+
+        {
+          "cityName": "临沂",
+          "cityPinyin": "linyi",
+          "cityId": 371300,
+          "latitude": 35.104649,
+          "longitude": 118.356461
+        },
+
+        {
+          "cityName": "林芝",
+          "cityPinyin": "linzhi",
+          "cityId": 542600,
+          "latitude": 29.654693,
+          "longitude": 94.362348
+        },
+
+        {
+          "cityName": "丽水",
+          "cityPinyin": "lishui",
+          "cityId": 331100,
+          "latitude": 28.467199,
+          "longitude": 119.922928
+        },
+        {
+          "city_name": "陵水黎族自治县",
+          "city_pinyin": "lingshuilizuzizhixian",
+          "city_id": 469028,
+          "latitude": 18.50596,
+          "longitude": 110.037201
+        },
+        {
+          "cityName": "六盘水",
+          "cityPinyin": "liupanshui",
+          "cityId": 520200,
+          "latitude": 26.68469,
+          "longitude": 104.746681
+        },
+
+        {
+          "cityName": "柳州",
+          "cityPinyin": "liuzhou",
+          "cityId": 450200,
+          "latitude": 24.32543,
+          "longitude": 109.41552
+        },
+
+        {
+          "cityName": "陇南",
+          "cityPinyin": "longnan",
+          "cityId": 621200,
+          "latitude": 33.388598,
+          "longitude": 104.929379
+        },
+
+        {
+          "cityName": "龙岩",
+          "cityPinyin": "longyan",
+          "cityId": 350800,
+          "latitude": 25.075041,
+          "longitude": 117.01722
+        },
+
+        {
+          "cityName": "娄底",
+          "cityPinyin": "loudi",
+          "cityId": 431300,
+          "latitude": 27.697281,
+          "longitude": 111.994583
+        },
+
+        {
+          "cityName": "六安",
+          "cityPinyin": "luan",
+          "cityId": 341500,
+          "latitude": 31.73488,
+          "longitude": 116.523239
+        },
+
+        {
+          "cityName": "漯河",
+          "cityPinyin": "luohe",
+          "cityId": 411100,
+          "latitude": 33.58149,
+          "longitude": 114.016808
+        },
+
+        {
+          "cityName": "洛阳",
+          "cityPinyin": "luoyang",
+          "cityId": 410300,
+          "latitude": 34.618118,
+          "longitude": 112.453613
+        },
+
+        {
+          "cityName": "泸州",
+          "cityPinyin": "luzhou",
+          "cityId": 510500,
+          "latitude": 28.8717,
+          "longitude": 105.442574
+        },
+        {
+          "city_name": "吕梁",
+          "city_pinyin": "lvliang",
+          "city_id": 141100,
+          "latitude": 37.519341,
+          "longitude": 111.141647
+        }
+      ]
+    },
+    {
+      "idx": "M",
+      "cities": [
+        {
+          "cityName": "马鞍山",
+          "cityPinyin": "maanshan",
+          "cityId": 340500,
+          "latitude": 31.67067,
+          "longitude": 118.506111
+        },
+
+        {
+          "cityName": "茂名",
+          "cityPinyin": "maoming",
+          "cityId": 440900,
+          "latitude": 21.66329,
+          "longitude": 110.925232
+        },
+
+        {
+          "cityName": "眉山",
+          "cityPinyin": "meishan",
+          "cityId": 511400,
+          "latitude": 30.07563,
+          "longitude": 103.848511
+        },
+
+        {
+          "cityName": "梅州",
+          "cityPinyin": "meizhou",
+          "cityId": 441400,
+          "latitude": 24.288441,
+          "longitude": 116.122643
+        },
+
+        {
+          "cityName": "绵阳",
+          "cityPinyin": "mianyang",
+          "cityId": 510700,
+          "latitude": 31.46751,
+          "longitude": 104.679604
+        },
+
+        {
+          "cityName": "苗栗县",
+          "cityPinyin": "miaolixian",
+          "cityId": 711500,
+          "latitude": 24.68485964,
+          "longitude": 120.913285
+        },
+
+        {
+          "cityName": "牡丹江",
+          "cityPinyin": "mudanjiang",
+          "cityId": 231000,
+          "latitude": 44.552689,
+          "longitude": 129.632446
+        }
+      ]
+    },
+    {
+      "idx": "N",
+      "cities": [
+        {
+          "cityName": "南昌",
+          "cityPinyin": "nanchang",
+          "cityId": 360100,
+          "latitude": 28.68202,
+          "longitude": 115.857941
+        },
+
+        {
+          "cityName": "南充",
+          "cityPinyin": "nanchong",
+          "cityId": 511300,
+          "latitude": 30.837311,
+          "longitude": 106.110733
+        },
+
+        {
+          "cityName": "南京",
+          "cityPinyin": "nanjing",
+          "cityId": 320100,
+          "latitude": 31.84178,
+          "longitude": 118.504669
+        },
+
+        {
+          "cityName": "南宁",
+          "cityPinyin": "nanning",
+          "cityId": 450100,
+          "latitude": 22.81673,
+          "longitude": 108.366898
+        },
+        {
+          "cityName": "南平",
+          "cityPinyin": "nanping",
+          "cityId": 350700,
+          "latitude": 27.33175,
+          "longitude": 118.12043
+        },
+
+        {
+          "cityName": "南通",
+          "cityPinyin": "nantong",
+          "cityId": 320600,
+          "latitude": 31.97958,
+          "longitude": 120.893707
+        },
+        {
+          "cityName": "南投县",
+          "cityPinyin": "nantouxian",
+          "cityId": 711300,
+          "latitude": 23.9781781,
+          "longitude": 120.6944409
+        },
+
+        {
+          "cityName": "南阳",
+          "cityPinyin": "nanyang",
+          "cityId": 411300,
+          "latitude": 32.99073,
+          "longitude": 112.528511
+        },
+
+        {
+          "cityName": "那曲",
+          "cityPinyin": "naqudiqu",
+          "cityId": 542400,
+          "latitude": 31.47693,
+          "longitude": 92.05809
+        },
+
+        {
+          "cityName": "内江",
+          "cityPinyin": "neijiang",
+          "cityId": 511000,
+          "latitude": 29.580151,
+          "longitude": 105.058441
+        },
+
+        {
+          "cityName": "宁波",
+          "cityPinyin": "ningbo",
+          "cityId": 330200,
+          "latitude": 29.873859,
+          "longitude": 121.55027
+        },
+
+        {
+          "cityName": "宁德",
+          "cityPinyin": "ningde",
+          "cityId": 350900,
+          "latitude": 26.66571,
+          "longitude": 119.548187
+        },
+
+        {
+          "cityName": "怒江傈僳族自治州",
+          "cityPinyin": "nujianglisuzuzizhizhou",
+          "cityId": 533300,
+          "latitude": 25.80574,
+          "longitude": 98.85928
+        }
+      ]
+    },
+    {
+      "idx": "P",
+      "cities": [
+        {
+          "cityName": "盘锦",
+          "cityPinyin": "panjin",
+          "cityId": 211100,
+          "latitude": 41.119961,
+          "longitude": 122.070778
+        },
+
+        {
+          "cityName": "攀枝花",
+          "cityPinyin": "panzhihua",
+          "cityId": 510400,
+          "latitude": 26.582279,
+          "longitude": 101.718719
+        },
+
+        {
+          "cityName": "平顶山",
+          "cityPinyin": "pingdingshan",
+          "cityId": 410400,
+          "latitude": 33.76609,
+          "longitude": 113.192413
+        },
+
+        {
+          "cityName": "屏东县",
+          "cityPinyin": "pingdongxian",
+          "cityId": 711400,
+          "latitude": 22.67240528,
+          "longitude": 120.4966103
+        },
+
+        {
+          "cityName": "平凉",
+          "cityPinyin": "pingliang",
+          "cityId": 620800,
+          "latitude": 35.54303,
+          "longitude": 106.665298
+        },
+
+        {
+          "cityName": "萍乡",
+          "cityPinyin": "pingxiang",
+          "cityId": 360300,
+          "latitude": 27.62289,
+          "longitude": 113.854271
+        },
+
+        {
+          "cityName": "普洱",
+          "cityPinyin": "puer",
+          "cityId": 530800,
+          "latitude": 22.825211,
+          "longitude": 100.96624
+        },
+
+        {
+          "cityName": "莆田",
+          "cityPinyin": "putian",
+          "cityId": 350300,
+          "latitude": 25.454,
+          "longitude": 119.007713
+        },
+
+        {
+          "cityName": "濮阳",
+          "cityPinyin": "puyang",
+          "cityId": 410900,
+          "latitude": 35.895161,
+          "longitude": 115.498688
+        }
+      ]
+    },
+    {
+      "idx": "Q",
+      "cities": [
+        {
+          "cityName": "黔东南苗族侗族自治州",
+          "cityPinyin": "qiandongnanmiaozudongzuzizhizhou",
+          "cityId": 522600,
+          "latitude": 26.583352,
+          "longitude": 107.977488
+        },
+
+        {
+          "cityName": "潜江市",
+          "cityPinyin": "qianjiangshi",
+          "cityId": 429005,
+          "latitude": 30.40147,
+          "longitude": 112.8993
+        },
+
+        {
+          "cityName": "黔南布依族苗族自治州",
+          "cityPinyin": "qiannanbuyizumiaozuzizhizhou",
+          "cityId": 522700,
+          "latitude": 26.258219,
+          "longitude": 107.517156
+        },
+
+        {
+          "cityName": "黔西南布依族苗族自治州",
+          "cityPinyin": "qianxinanbuyizumiaozuzizhizhou",
+          "cityId": 522300,
+          "latitude": 25.08812,
+          "longitude": 104.897971
+        },
+
+        {
+          "cityName": "青岛",
+          "cityPinyin": "qingdao",
+          "cityId": 370200,
+          "latitude": 36.066231,
+          "longitude": 120.382988
+        },
+
+        {
+          "cityName": "庆阳",
+          "cityPinyin": "qingyang",
+          "cityId": 621000,
+          "latitude": 35.709782,
+          "longitude": 107.642921
+        },
+
+        {
+          "cityName": "清远",
+          "cityPinyin": "qingyuan",
+          "cityId": 441800,
+          "latitude": 23.682011,
+          "longitude": 113.056152
+        },
+
+        {
+          "cityName": "秦皇岛",
+          "cityPinyin": "qinhuangdao",
+          "cityId": 130300,
+          "latitude": 39.935452,
+          "longitude": 119.59964
+        },
+
+        {
+          "cityName": "钦州",
+          "cityPinyin": "qinzhou",
+          "cityId": 450700,
+          "latitude": 21.9797,
+          "longitude": 108.654312
+        },
+
+        {
+          "cityName": "齐齐哈尔",
+          "cityPinyin": "qiqihaer",
+          "cityId": 230200,
+          "latitude": 47.354309,
+          "longitude": 123.917961
+        },
+
+        {
+          "cityName": "七台河",
+          "cityPinyin": "qitaihe",
+          "cityId": 230900,
+          "latitude": 45.770649,
+          "longitude": 131.003067
+        },
+
+        {
+          "cityName": "泉州",
+          "cityPinyin": "quanzhou",
+          "cityId": 350500,
+          "latitude": 25.929897,
+          "longitude": 111.072989
+        },
+
+        {
+          "cityName": "曲阜市",
+          "cityPinyin": "qufushi",
+          "cityId": 370881,
+          "latitude": 35.580818,
+          "longitude": 116.986481
+        },
+
+        {
+          "cityName": "曲靖",
+          "cityPinyin": "qujing",
+          "cityId": 530300,
+          "latitude": 25.490021,
+          "longitude": 103.796249
+        },
+
+        {
+          "cityName": "衢州",
+          "cityPinyin": "quzhou",
+          "cityId": 330800,
+          "latitude": 28.935921,
+          "longitude": 118.874191
+        }
+      ]
+    },
+    {
+      "idx": "R",
+      "cities": [
+        {
+          "cityName": "日喀则",
+          "cityPinyin": "rikaze",
+          "cityId": 542300,
+          "latitude": 29.261454,
+          "longitude": 88.884348
+        },
+        {
+          "cityName": "日照",
+          "cityPinyin": "rizhao",
+          "cityId": 371100,
+          "latitude": 35.416458,
+          "longitude": 119.527191
+        }
+      ]
+    },
+    {
+      "idx": "S",
+      "cities": [
+        {
+          "cityName": "三门峡",
+          "cityPinyin": "sanmenxia",
+          "cityId": 411200,
+          "latitude": 34.77261,
+          "longitude": 111.200302
+        },
+
+        {
+          "cityName": "三明",
+          "cityPinyin": "sanming",
+          "cityId": 350400,
+          "latitude": 26.263849,
+          "longitude": 117.639221
+        },
+        {
+          "cityName": "三沙",
+          "cityPinyin": "sansha",
+          "cityId": 460300,
+          "latitude": 16.83272,
+          "longitude": 112.33356
+        },
+
+        {
+          "cityName": "三亚",
+          "cityPinyin": "sanya",
+          "cityId": 460200,
+          "latitude": 18.25248,
+          "longitude": 109.512093
+        },
+
+        {
+          "cityName": "上海",
+          "cityPinyin": "shanghai",
+          "cityId": 310100,
+          "latitude": 31.23037,
+          "longitude": 121.473701
+        },
+
+        {
+          "cityName": "商洛",
+          "cityPinyin": "shangluo",
+          "cityId": 611000,
+          "latitude": 33.868319,
+          "longitude": 109.939776
+        },
+
+        {
+          "cityName": "商丘",
+          "cityPinyin": "shangqiu",
+          "cityId": 411400,
+          "latitude": 34.414268,
+          "longitude": 115.656349
+        },
+        {
+          "cityName": "上饶",
+          "cityPinyin": "shangrao",
+          "cityId": 361100,
+          "latitude": 28.45463,
+          "longitude": 117.943573
+        },
+
+        {
+          "cityName": "汕头",
+          "cityPinyin": "shantou",
+          "cityId": 440500,
+          "latitude": 23.3535,
+          "longitude": 116.682213
+        },
+        {
+          "cityName": "汕尾",
+          "cityPinyin": "shanwei",
+          "cityId": 441500,
+          "latitude": 22.78566,
+          "longitude": 115.375137
+        },
+
+        {
+          "cityName": "韶关",
+          "cityPinyin": "shaoguan",
+          "cityId": 440200,
+          "latitude": 24.81039,
+          "longitude": 113.597229
+        },
+
+        {
+          "cityName": "绍兴",
+          "cityPinyin": "shaoxing",
+          "cityId": 330600,
+          "latitude": 30.030331,
+          "longitude": 120.5802
+        },
+
+        {
+          "cityName": "邵阳",
+          "cityPinyin": "shaoyang",
+          "cityId": 430500,
+          "latitude": 27.238899,
+          "longitude": 111.467697
+        },
+
+        {
+          "cityName": "神农架林区",
+          "cityPinyin": "shennongjialinqu",
+          "cityId": 429021,
+          "latitude": 31.33525,
+          "longitude": 110.5723
+        },
+
+        {
+          "cityName": "沈阳",
+          "cityPinyin": "shenyang",
+          "cityId": 210100,
+          "latitude": 41.80563,
+          "longitude": 123.432358
+        },
+
+        {
+          "cityName": "深圳",
+          "cityPinyin": "shenzhen",
+          "cityId": 440300,
+          "latitude": 22.54286,
+          "longitude": 114.059563
+        },
+
+        {
+          "cityName": "石河子市",
+          "cityPinyin": "shihezishi",
+          "cityId": 659001,
+          "latitude": 44.30653,
+          "longitude": 86.078934
+        },
+        {
+          "cityName": "石家庄",
+          "cityPinyin": "shijiazhuang",
+          "cityId": 130100,
+          "latitude": 38.042759,
+          "longitude": 114.514297
+        },
+
+        {
+          "cityName": "十堰",
+          "cityPinyin": "shiyan",
+          "cityId": 420300,
+          "latitude": 32.62918,
+          "longitude": 110.79801
+        },
+
+        {
+          "cityName": "石嘴山",
+          "cityPinyin": "shizuishan",
+          "cityId": 640200,
+          "latitude": 38.9841,
+          "longitude": 106.384178
+        },
+
+        {
+          "cityName": "双鸭山",
+          "cityPinyin": "shuangyashan",
+          "cityId": 230500,
+          "latitude": 46.64658,
+          "longitude": 131.159103
+        },
+
+        {
+          "cityName": "朔州",
+          "cityPinyin": "shuozhou",
+          "cityId": 140600,
+          "latitude": 39.331589,
+          "longitude": 112.431808
+        },
+
+        {
+          "cityName": "四平",
+          "cityPinyin": "siping",
+          "cityId": 220300,
+          "latitude": 43.166458,
+          "longitude": 124.350357
+        },
+
+        {
+          "cityName": "松原",
+          "cityPinyin": "songyuan",
+          "cityId": 220700,
+          "latitude": 45.141102,
+          "longitude": 124.82515
+        },
+
+        {
+          "cityName": "绥化",
+          "cityPinyin": "suihua",
+          "cityId": 231200,
+          "latitude": 46.652458,
+          "longitude": 126.969322
+        },
+
+        {
+          "cityName": "遂宁",
+          "cityPinyin": "suining",
+          "cityId": 510900,
+          "latitude": 30.53286,
+          "longitude": 105.592728
+        },
+
+        {
+          "cityName": "随州",
+          "cityPinyin": "suizhou",
+          "cityId": 421300,
+          "latitude": 31.69013,
+          "longitude": 113.382622
+        },
+
+        {
+          "cityName": "宿迁",
+          "cityPinyin": "suqian",
+          "cityId": 321300,
+          "latitude": 33.961929,
+          "longitude": 118.27549
+        },
+
+        {
+          "cityName": "苏州",
+          "cityPinyin": "suzhou",
+          "cityId": 320500,
+          "latitude": 31.29834,
+          "longitude": 120.583191
+        },
+        {
+          "cityName": "宿州",
+          "cityPinyin": "suzhou",
+          "cityId": 341300,
+          "latitude": 33.646141,
+          "longitude": 116.963913
+        }
+      ]
+    },
+    {
+      "idx": "T",
+      "cities": [
+        {
+          "cityName": "塔城地区",
+          "cityPinyin": "tachengdiqu",
+          "cityId": 654200,
+          "latitude": 46.746301,
+          "longitude": 82.985732
+        },
+
+        {
+          "cityName": "泰安",
+          "cityPinyin": "taian",
+          "cityId": 370900,
+          "latitude": 36.19994,
+          "longitude": 117.088402
+        },
+        {
+          "cityName": "台北",
+          "cityPinyin": "taibei",
+          "cityId": 710001,
+          "latitude": 25.030724,
+          "longitude": 121.520076
+        },
+
+        {
+          "cityName": "台东县",
+          "cityPinyin": "taidongxian",
+          "cityId": 719012,
+          "latitude": 22.77966171,
+          "longitude": 121.1193822
+        },
+
+        {
+          "cityName": "台南",
+          "cityPinyin": "tainan",
+          "cityId": 710500,
+          "latitude": 23.1652327,
+          "longitude": 120.1804057
+        },
+
+        {
+          "cityName": "太原",
+          "cityPinyin": "taiyuan",
+          "cityId": 140100,
+          "latitude": 37.87059,
+          "longitude": 112.550667
+        },
+        {
+          "cityName": "台中",
+          "cityPinyin": "taizhong",
+          "cityId": 710400,
+          "latitude": 24.17102883,
+          "longitude": 120.6494282
+        },
+        {
+          "cityName": "泰州",
+          "cityPinyin": "taizhou",
+          "cityId": 321200,
+          "latitude": 32.45546,
+          "longitude": 119.925537
+        },
+        {
+          "cityName": "台州",
+          "cityPinyin": "taizhou2",
+          "cityId": 331000,
+          "latitude": 28.656111,
+          "longitude": 121.420563
+        },
+
+        {
+          "cityName": "唐山",
+          "cityPinyin": "tangshan",
+          "cityId": 130200,
+          "latitude": 39.630482,
+          "longitude": 118.18058
+        },
+
+        {
+          "cityName": "桃园",
+          "cityPinyin": "taoyuan",
+          "cityId": 710600,
+          "latitude": 24.99154426,
+          "longitude": 121.308565
+        },
+
+        {
+          "cityName": "天津",
+          "cityPinyin": "tianjin",
+          "cityId": 120100,
+          "latitude": 39.085098,
+          "longitude": 117.199371
+        },
+
+        {
+          "cityName": "天门市",
+          "cityPinyin": "tianmenshi",
+          "cityId": 429006,
+          "latitude": 30.663389,
+          "longitude": 113.166138
+        },
+
+        {
+          "cityName": "天水",
+          "cityPinyin": "tianshui",
+          "cityId": 620500,
+          "latitude": 34.580849,
+          "longitude": 105.724861
+        },
+
+        {
+          "cityName": "铁岭",
+          "cityPinyin": "tieling",
+          "cityId": 211200,
+          "latitude": 42.22454,
+          "longitude": 123.77555
+        },
+
+        {
+          "cityName": "铁门关",
+          "cityPinyin": "tiemenguan",
+          "cityId": 659006,
+          "latitude": 41.827251,
+          "longitude": 85.501218
+        },
+
+        {
+          "cityName": "铜川",
+          "cityPinyin": "tongchuan",
+          "cityId": 610200,
+          "latitude": 34.896729,
+          "longitude": 108.945152
+        },
+
+        {
+          "cityName": "通化",
+          "cityPinyin": "tonghua",
+          "cityId": 220500,
+          "latitude": 41.728291,
+          "longitude": 125.939903
+        },
+
+        {
+          "cityName": "通辽",
+          "cityPinyin": "tongliao",
+          "cityId": 150500,
+          "latitude": 43.65247,
+          "longitude": 122.24469
+        },
+        {
+          "cityName": "铜陵",
+          "cityPinyin": "tongling",
+          "cityId": 340700,
+          "latitude": 30.961778,
+          "longitude": 117.801108
+        },
+
+        {
+          "cityName": "铜仁",
+          "cityPinyin": "tongren",
+          "cityId": 520600,
+          "latitude": 27.69066,
+          "longitude": 109.180992
+        },
+
+        {
+          "cityName": "吐鲁番",
+          "cityPinyin": "tulufan",
+          "cityId": 652100,
+          "latitude": 42.947613,
+          "longitude": 89.184078
+        },
+
+        {
+          "cityName": "图木舒克",
+          "cityPinyin": "tumushuke",
+          "cityId": 659003,
+          "latitude": 39.867316,
+          "longitude": 79.077978
+        },
+        {
+          "cityName": "屯昌县",
+          "cityPinyin": "tunchangxian",
+          "cityId": 469022,
+          "latitude": 19.35182,
+          "longitude": 110.10347
+        }
+      ]
+    },
+    {
+      "idx": "W",
+      "cities": [
+        {
+          "cityName": "万宁市",
+          "cityPinyin": "wanningshi",
+          "cityId": 469006,
+          "latitude": 18.795321,
+          "longitude": 110.389748
+        },
+
+        {
+          "cityName": "潍坊",
+          "cityPinyin": "weifang",
+          "cityId": 370700,
+          "latitude": 36.70686,
+          "longitude": 119.161758
+        },
+        {
+          "cityName": "威海",
+          "cityPinyin": "weihai",
+          "cityId": 371000,
+          "latitude": 37.513481,
+          "longitude": 122.121712
+        },
+
+        {
+          "cityName": "渭南",
+          "cityPinyin": "weinan",
+          "cityId": 610500,
+          "latitude": 34.499969,
+          "longitude": 109.510147
+        },
+
+        {
+          "cityName": "文昌",
+          "cityPinyin": "wenchang",
+          "cityId": 469005,
+          "latitude": 19.543289,
+          "longitude": 110.797737
+        },
+
+        {
+          "cityName": "文山州",
+          "cityPinyin": "wenshanzhou",
+          "cityId": 532600,
+          "latitude": 23.400983,
+          "longitude": 104.21567
+        },
+
+        {
+          "cityName": "温州",
+          "cityPinyin": "wenzhou",
+          "cityId": 330300,
+          "latitude": 27.994921,
+          "longitude": 120.699387
+        },
+
+        {
+          "cityName": "乌海",
+          "cityPinyin": "wuhai",
+          "cityId": 150300,
+          "latitude": 39.653839,
+          "longitude": 106.795464
+        },
+        {
+          "cityName": "武汉",
+          "cityPinyin": "wuhan",
+          "cityId": 420100,
+          "latitude": 30.59276,
+          "longitude": 114.305252
+        },
+
+        {
+          "cityName": "芜湖",
+          "cityPinyin": "wuhu",
+          "cityId": 340200,
+          "latitude": 31.352461,
+          "longitude": 118.433128
+        },
+
+        {
+          "cityName": "乌兰察布",
+          "cityPinyin": "wulanchabu",
+          "cityId": 150900,
+          "latitude": 40.993912,
+          "longitude": 113.133759
+        },
+
+        {
+          "cityName": "乌鲁木齐",
+          "cityPinyin": "wulumuqi",
+          "cityId": 650100,
+          "latitude": 43.47129,
+          "longitude": 87.40931
+        },
+
+        {
+          "cityName": "武威",
+          "cityPinyin": "wuwei",
+          "cityId": 620600,
+          "latitude": 37.9282,
+          "longitude": 102.63797
+        },
+
+        {
+          "cityName": "无锡",
+          "cityPinyin": "wuxi",
+          "cityId": 320200,
+          "latitude": 31.49099,
+          "longitude": 120.31237
+        },
+        {
+          "city_name": "五家渠",
+          "city_pinyin": "wujiaqu",
+          "city_id": 659004,
+          "latitude": 44.167401,
+          "longitude": 87.526884
+        },
+
+        {
+          "cityName": "五指山",
+          "cityPinyin": "wuzhishan",
+          "cityId": 469001,
+          "latitude": 18.776921,
+          "longitude": 109.516662
+        },
+
+        {
+          "cityName": "吴忠",
+          "cityPinyin": "wuzhong",
+          "cityId": 640300,
+          "latitude": 37.997551,
+          "longitude": 106.198792
+        },
+        {
+          "cityName": "梧州",
+          "cityPinyin": "wuzhou",
+          "cityId": 450400,
+          "latitude": 23.47703,
+          "longitude": 111.279129
+        }
+      ]
+    },
+    {
+      "idx": "X",
+      "cities": [
+        {
+          "cityName": "厦门",
+          "cityPinyin": "xiamen",
+          "cityId": 350200,
+          "latitude": 24.479509,
+          "longitude": 118.089478
+        },
+        {
+          "cityName": "西安",
+          "cityPinyin": "xian",
+          "cityId": 610100,
+          "latitude": 34.34127,
+          "longitude": 108.939842
+        },
+
+        {
+          "cityName": "香港",
+          "cityPinyin": "xianggang",
+          "cityId": 810001,
+          "latitude": 22.276283,
+          "longitude": 114.163826
+        },
+        {
+          "cityName": "香格里拉市",
+          "cityPinyin": "xianggelilashi",
+          "cityId": 533421,
+          "latitude": 27.825804,
+          "longitude": 99.708667
+        },
+
+        {
+          "cityName": "湘潭",
+          "cityPinyin": "xiangtan",
+          "cityId": 430300,
+          "latitude": 27.82975,
+          "longitude": 112.944107
+        },
+
+        {
+          "cityName": "湘西土家族苗族自治州",
+          "cityPinyin": "xiangxitujiazumiaozuzizhizhou",
+          "cityId": 433100,
+          "latitude": 28.314296,
+          "longitude": 109.739735
+        },
+        {
+          "cityName": "襄阳",
+          "cityPinyin": "xiangyang",
+          "cityId": 420600,
+          "latitude": 32.008999,
+          "longitude": 112.122551
+        },
+
+        {
+          "cityName": "咸宁",
+          "cityPinyin": "xianning",
+          "cityId": 421200,
+          "latitude": 29.841261,
+          "longitude": 114.322449
+        },
+
+        {
+          "cityName": "仙桃市",
+          "cityPinyin": "xiantaoshi",
+          "cityId": 429004,
+          "latitude": 30.362511,
+          "longitude": 113.454498
+        },
+
+        {
+          "cityName": "咸阳",
+          "cityPinyin": "xianyang",
+          "cityId": 610400,
+          "latitude": 34.329319,
+          "longitude": 108.70929
+        },
+
+        {
+          "cityName": "孝感",
+          "cityPinyin": "xiaogan",
+          "cityId": 420900,
+          "latitude": 30.924829,
+          "longitude": 113.916451
+        },
+
+        {
+          "cityName": "锡林郭勒盟",
+          "cityPinyin": "xilinguolemeng",
+          "cityId": 152500,
+          "latitude": 43.938849,
+          "longitude": 116.085367
+        },
+
+        {
+          "cityName": "新北",
+          "cityPinyin": "xinbei",
+          "cityId": 710300,
+          "latitude": 25.03913908,
+          "longitude": 121.4547026
+        },
+
+        {
+          "cityName": "兴安盟",
+          "cityPinyin": "xinganmeng",
+          "cityId": 152200,
+          "latitude": 46.076268,
+          "longitude": 122.070317
+        },
+
+        {
+          "cityName": "邢台",
+          "cityPinyin": "xingtai",
+          "cityId": 130500,
+          "latitude": 37.070549,
+          "longitude": 114.504433
+        },
+
+        {
+          "cityName": "西宁",
+          "cityPinyin": "xining",
+          "cityId": 630100,
+          "latitude": 36.61729,
+          "longitude": 101.777817
+        },
+
+        {
+          "cityName": "新乡",
+          "cityPinyin": "xinxiang",
+          "cityId": 410700,
+          "latitude": 35.30323,
+          "longitude": 113.92675
+        },
+
+        {
+          "cityName": "信阳",
+          "cityPinyin": "xinyang",
+          "cityId": 411500,
+          "latitude": 32.147141,
+          "longitude": 114.092789
+        },
+
+        {
+          "cityName": "新余",
+          "cityPinyin": "xinyu",
+          "cityId": 360500,
+          "latitude": 27.81776,
+          "longitude": 114.91713
+        },
+
+        {
+          "cityName": "忻州",
+          "cityPinyin": "xinzhou",
+          "cityId": 140900,
+          "latitude": 38.416698,
+          "longitude": 112.734177
+        },
+
+        {
+          "cityName": "新竹",
+          "cityPinyin": "xinzhu",
+          "cityId": 711800,
+          "latitude": 24.80840567,
+          "longitude": 120.9721309
+        },
+
+        {
+          "cityName": "西双版纳傣族自治州",
+          "cityPinyin": "xishuangbannadaizuzizhizhou",
+          "cityId": 532800,
+          "latitude": 22.001724,
+          "longitude": 100.797941
+        },
+
+        {
+          "cityName": "宣城",
+          "cityPinyin": "xuancheng",
+          "cityId": 341800,
+          "latitude": 30.940781,
+          "longitude": 118.758659
+        },
+
+        {
+          "cityName": "许昌",
+          "cityPinyin": "xuchang",
+          "cityId": 411000,
+          "latitude": 34.035702,
+          "longitude": 113.852333
+        },
+
+        {
+          "cityName": "徐州",
+          "cityPinyin": "xuzhou",
+          "cityId": 320300,
+          "latitude": 34.204399,
+          "longitude": 117.285767
+        }
+      ]
+    },
+    {
+      "idx": "Y",
+      "cities": [
+        {
+          "cityName": "雅安",
+          "cityPinyin": "yaan",
+          "cityId": 511800,
+          "latitude": 30.01543,
+          "longitude": 103.039803
+        },
+
+        {
+          "cityName": "延安",
+          "cityPinyin": "yanan",
+          "cityId": 610600,
+          "latitude": 36.585289,
+          "longitude": 109.489777
+        },
+        {
+          "cityName": "延边",
+          "cityPinyin": "yanbianchaoxianzuzizhizhou",
+          "cityId": 222400,
+          "latitude": 42.89119,
+          "longitude": 129.509094
+        },
+
+        {
+          "cityName": "盐城",
+          "cityPinyin": "yancheng",
+          "cityId": 320900,
+          "latitude": 33.34951,
+          "longitude": 120.161636
+        },
+
+        {
+          "cityName": "阳江",
+          "cityPinyin": "yangjiang",
+          "cityId": 441700,
+          "latitude": 21.85829,
+          "longitude": 111.982559
+        },
+
+        {
+          "cityName": "阳泉",
+          "cityPinyin": "yangquan",
+          "cityId": 140300,
+          "latitude": 37.856682,
+          "longitude": 113.580467
+        },
+
+        {
+          "cityName": "扬州",
+          "cityPinyin": "yangzhou",
+          "cityId": 321000,
+          "latitude": 32.393581,
+          "longitude": 119.412689
+        },
+
+        {
+          "cityName": "烟台",
+          "cityPinyin": "yantai",
+          "cityId": 370600,
+          "latitude": 37.463531,
+          "longitude": 121.448013
+        },
+
+        {
+          "cityName": "宜宾",
+          "cityPinyin": "yibin",
+          "cityId": 511500,
+          "latitude": 28.751301,
+          "longitude": 104.641701
+        },
+
+        {
+          "cityName": "宜昌",
+          "cityPinyin": "yichang",
+          "cityId": 420500,
+          "latitude": 30.69186,
+          "longitude": 111.286423
+        },
+
+        {
+          "cityName": "宜春",
+          "cityPinyin": "yichun",
+          "cityId": 360900,
+          "latitude": 27.81443,
+          "longitude": 114.416122
+        },
+
+        {
+          "cityName": "伊春",
+          "cityPinyin": "yichunshi",
+          "cityId": 230700,
+          "latitude": 47.72752,
+          "longitude": 128.840485
+        },
+
+        {
+          "cityName": "伊犁哈萨克自治州",
+          "cityPinyin": "yilihasakezizhizhou",
+          "cityId": 654000,
+          "latitude": 43.92186,
+          "longitude": 81.317946
+        },
+
+        {
+          "cityName": "银川",
+          "cityPinyin": "yinchuan",
+          "cityId": 640100,
+          "latitude": 38.486439,
+          "longitude": 106.232483
+        },
+
+        {
+          "cityName": "营口",
+          "cityPinyin": "yingkou",
+          "cityId": 210800,
+          "latitude": 40.666828,
+          "longitude": 122.234901
+        },
+
+        {
+          "cityName": "鹰潭",
+          "cityPinyin": "yingtan",
+          "cityId": 360600,
+          "latitude": 28.260189,
+          "longitude": 117.069191
+        },
+
+        {
+          "cityName": "益阳",
+          "cityPinyin": "yiyang",
+          "cityId": 430900,
+          "latitude": 28.553909,
+          "longitude": 112.355164
+        },
+
+        {
+          "cityName": "永州",
+          "cityPinyin": "yongzhou",
+          "cityId": 431100,
+          "latitude": 26.42034,
+          "longitude": 111.612251
+        },
+
+        {
+          "cityName": "岳阳",
+          "cityPinyin": "yueyang",
+          "cityId": 430600,
+          "latitude": 29.357281,
+          "longitude": 113.129189
+        },
+
+        {
+          "cityName": "玉林",
+          "cityPinyin": "yulin",
+          "cityId": 450900,
+          "latitude": 22.65451,
+          "longitude": 110.180977
+        },
+        {
+          "cityName": "榆林",
+          "cityPinyin": "yulin",
+          "cityId": 610800,
+          "latitude": 38.285198,
+          "longitude": 109.734581
+        },
+
+        {
+          "cityName": "运城",
+          "cityPinyin": "yuncheng",
+          "cityId": 140800,
+          "latitude": 35.026279,
+          "longitude": 111.006989
+        },
+
+        {
+          "cityName": "云浮",
+          "cityPinyin": "yunfu",
+          "cityId": 445300,
+          "latitude": 22.915251,
+          "longitude": 112.044533
+        },
+
+        {
+          "cityName": "云林县",
+          "cityPinyin": "yunlinxian",
+          "cityId": 711700,
+          "latitude": 23.79612624,
+          "longitude": 120.4588458
+        },
+
+        {
+          "cityName": "玉树藏族自治州",
+          "cityPinyin": "yushuzangzuzizhizhou",
+          "cityId": 632700,
+          "latitude": 33.004048,
+          "longitude": 97.008521
+        },
+
+        {
+          "cityName": "玉溪",
+          "cityPinyin": "yuxi",
+          "cityId": 530400,
+          "latitude": 24.351931,
+          "longitude": 102.5466
+        }
+      ]
+    },
+    {
+      "idx": "Z",
+      "cities": [
+        {
+          "cityName": "枣庄",
+          "cityPinyin": "zaozhuang",
+          "cityId": 370400,
+          "latitude": 34.810711,
+          "longitude": 117.32196
+        },
+
+        {
+          "cityName": "彰化县",
+          "cityPinyin": "zhanghuaxian",
+          "cityId": 712200,
+          "latitude": 24.07621964,
+          "longitude": 120.5448834
+        },
+
+        {
+          "cityName": "张家界",
+          "cityPinyin": "zhangjiajie",
+          "cityId": 430800,
+          "latitude": 29.116671,
+          "longitude": 110.478394
+        },
+        {
+          "cityName": "张家口",
+          "cityPinyin": "zhangjiakou",
+          "cityId": 130700,
+          "latitude": 40.82444,
+          "longitude": 114.88755
+        },
+
+        {
+          "cityName": "张掖",
+          "cityPinyin": "zhangye",
+          "cityId": 620700,
+          "latitude": 38.925919,
+          "longitude": 100.449806
+        },
+        {
+          "cityName": "漳州",
+          "cityPinyin": "zhangzhou",
+          "cityId": 350600,
+          "latitude": 24.51347,
+          "longitude": 117.647247
+        },
+
+        {
+          "cityName": "湛江",
+          "cityPinyin": "zhanjiang",
+          "cityId": 440800,
+          "latitude": 21.271339,
+          "longitude": 110.35894
+        },
+
+        {
+          "cityName": "肇庆",
+          "cityPinyin": "zhaoqing",
+          "cityId": 441200,
+          "latitude": 23.0469,
+          "longitude": 112.465279
+        },
+
+        {
+          "cityName": "昭通",
+          "cityPinyin": "zhaotong",
+          "cityId": 530600,
+          "latitude": 27.338169,
+          "longitude": 103.716797
+        },
+
+        {
+          "cityName": "郑州",
+          "cityPinyin": "zhengzhou",
+          "cityId": 410100,
+          "latitude": 34.74725,
+          "longitude": 113.624931
+        },
+        {
+          "cityName": "镇江",
+          "cityPinyin": "zhenjiang",
+          "cityId": 321100,
+          "latitude": 32.18959,
+          "longitude": 119.425003
+        },
+
+        {
+          "cityName": "中山",
+          "cityPinyin": "zhongshan",
+          "cityId": 442000,
+          "latitude": 22.515949,
+          "longitude": 113.392601
+        },
+
+        {
+          "cityName": "中卫",
+          "cityPinyin": "zhongwei",
+          "cityId": 640500,
+          "latitude": 37.500259,
+          "longitude": 105.196762
+        },
+
+        {
+          "cityName": "周口",
+          "cityPinyin": "zhoukou",
+          "cityId": 411600,
+          "latitude": 33.625832,
+          "longitude": 114.696953
+        },
+
+        {
+          "cityName": "舟山",
+          "cityPinyin": "zhoushan",
+          "cityId": 330900,
+          "latitude": 29.98539,
+          "longitude": 122.207779
+        },
+
+        {
+          "cityName": "珠海",
+          "cityPinyin": "zhuhai",
+          "cityId": 440400,
+          "latitude": 22.270729,
+          "longitude": 113.576683
+        },
+
+        {
+          "cityName": "驻马店",
+          "cityPinyin": "zhumadian",
+          "cityId": 411700,
+          "latitude": 33.011421,
+          "longitude": 114.022987
+        },
+
+        {
+          "cityName": "涿州",
+          "cityPinyin": "zhuozhou",
+          "cityId": 130681,
+          "latitude": 39.485291,
+          "longitude": 115.974388
+        },
+
+        {
+          "cityName": "株洲",
+          "cityPinyin": "zhuzhou",
+          "cityId": 430200,
+          "latitude": 27.827669,
+          "longitude": 113.133957
+        },
+
+        {
+          "cityName": "淄博",
+          "cityPinyin": "zibo",
+          "cityId": 370300,
+          "latitude": 36.813099,
+          "longitude": 118.054802
+        },
+
+        {
+          "cityName": "自贡",
+          "cityPinyin": "zigong",
+          "cityId": 510300,
+          "latitude": 29.339199,
+          "longitude": 104.778442
+        },
+
+        {
+          "cityName": "资阳",
+          "cityPinyin": "ziyang",
+          "cityId": 512000,
+          "latitude": 30.12859,
+          "longitude": 104.627983
+        },
+
+        {
+          "cityName": "遵义",
+          "cityPinyin": "zunyi",
+          "cityId": 520300,
+          "latitude": 27.72545,
+          "longitude": 106.92723
+        }
+      ]
+    }
+  ],
+  "hotCity": [
+    {
+      "cityName": "北京",
+      "cityPinyin": "beijing",
+      "cityId": 110100,
+      "latitude": 39.90469,
+      "longitude": 116.407173
+    },
+    {
+      "cityName": "成都",
+      "cityPinyin": "chengdu",
+      "cityId": 510100,
+      "latitude": 30.5702,
+      "longitude": 104.064758
+    },
+    {
+      "cityName": "重庆",
+      "cityPinyin": "chongqing",
+      "cityId": 500100,
+      "latitude": 29.564711,
+      "longitude": 106.550728
+    },
+    {
+      "cityName": "广州",
+      "cityPinyin": "guangzhou",
+      "cityId": 440100,
+      "latitude": 23.12908,
+      "longitude": 113.264359
+    },
+    {
+      "cityName": "杭州",
+      "cityPinyin": "hangzhou",
+      "cityId": 330100,
+      "latitude": 30.274151,
+      "longitude": 120.155151
+    },
+    {
+      "cityName": "南京",
+      "cityPinyin": "nanjing",
+      "cityId": 320100,
+      "latitude": 31.84178,
+      "longitude": 118.504669
+    },
+    {
+      "cityName": "上海",
+      "cityPinyin": "shanghai",
+      "cityId": 310100,
+      "latitude": 31.23037,
+      "longitude": 121.473701
+    },
+    {
+      "cityName": "深圳",
+      "cityPinyin": "shenzhen",
+      "cityId": 440300,
+      "latitude": 22.54286,
+      "longitude": 114.059563
+    },
+    {
+      "cityName": "苏州",
+      "cityPinyin": "suzhou",
+      "cityId": 320500,
+      "latitude": 31.29834,
+      "longitude": 120.583191
+    },
+    {
+      "cityName": "天津",
+      "cityPinyin": "tianjin",
+      "cityId": 120100,
+      "latitude": 39.085098,
+      "longitude": 117.199371
+    },
+    {
+      "cityName": "武汉",
+      "cityPinyin": "wuhan",
+      "cityId": 420100,
+      "latitude": 30.59276,
+      "longitude": 114.305252
+    },
+    {
+      "cityName": "西安",
+      "cityPinyin": "xian",
+      "cityId": 610100,
+      "latitude": 34.34127,
+      "longitude": 108.939842
+    }
+  ]
+}
