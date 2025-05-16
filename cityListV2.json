@@ -1210,9 +1210,9 @@
           "longitude": 114.416786
         },
         {
-          "city_name": "胡杨河",
-          "city_pinyin": "huyangheshi",
-          "city_id": 659010,
+          "cityName": "胡杨河",
+          "cityPinyin": "huyangheshi",
+          "cityId": 659010,
           "latitude": 44.692894,
           "longitude": 84.827592
         },
@@ -1459,9 +1459,9 @@
           "longitude": 75.989138
         },
         {
-          "city_name": "可克达拉市",
-          "city_pinyin": "kekedalashi",
-          "city_id": 659008,
+          "cityName": "可克达拉市",
+          "cityPinyin": "kekedalashi",
+          "cityId": 659008,
           "latitude": 43.6832,
           "longitude": 80.63579
         },
@@ -1635,9 +1635,9 @@
           "longitude": 119.922928
         },
         {
-          "city_name": "陵水黎族自治县",
-          "city_pinyin": "lingshuilizuzizhixian",
-          "city_id": 469028,
+          "cityName": "陵水黎族自治县",
+          "cityPinyin": "lingshuilizuzizhixian",
+          "cityId": 469028,
           "latitude": 18.50596,
           "longitude": 110.037201
         },
@@ -1713,9 +1713,9 @@
           "longitude": 105.442574
         },
         {
-          "city_name": "吕梁",
-          "city_pinyin": "lvliang",
-          "city_id": 141100,
+          "cityName": "吕梁",
+          "cityPinyin": "lvliang",
+          "cityId": 141100,
           "latitude": 37.519341,
           "longitude": 111.141647
         }
@@ -2648,9 +2648,9 @@
           "longitude": 120.31237
         },
         {
-          "city_name": "五家渠",
-          "city_pinyin": "wujiaqu",
-          "city_id": 659004,
+          "cityName": "五家渠",
+          "cityPinyin": "wujiaqu",
+          "cityId": 659004,
           "latitude": 44.167401,
           "longitude": 87.526884
         },
